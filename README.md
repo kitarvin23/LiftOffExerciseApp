@@ -31,7 +31,6 @@ LiftOffExerciseApp is a sophisticated fitness tracking application that offers:
 - 📊 Detailed progress analytics
 - 🏆 Achievement system with badges
 - 📱 Offline exercise access
-- 👨‍💼 AI-powered form correction
 - 🎵 Exclusive premium content and nutrition guides
 
 ### Exercise Library
