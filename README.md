@@ -15,10 +15,10 @@ LiftOffExerciseApp is a sophisticated fitness tracking application that offers:
 ## 🎬 Demo
 
 ### App Screenshot
-![LiftOff Exercise App Demo](assets/demo-picture/demo-picture-for-md.png)
+<img src="assets/demo-picture/demo-picture-for-md.png" alt="LiftOff Exercise App Demo" width="300">
 
 ### Video Demo
-Watch the full app demonstration: [LiftOff Exercise App Video Demo](https://drive.google.com/file/d/1NV_8EIAqa0qDtEwoX3R2x7DdSyf8T0lK/view?usp=sharing)
+🎥 **[Watch Full App Demonstration](https://drive.google.com/file/d/1NV_8EIAqa0qDtEwoX3R2x7DdSyf8T0lK/view?usp=sharing)**
 
 ## ✨ Features
 
