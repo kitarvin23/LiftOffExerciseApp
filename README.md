@@ -1,10 +1,10 @@
-# LiftoffExerciseApp 🏋️‍♂️
+# LiftOffExerciseApp 🏋️‍♂️
 
 A premium React Native fitness application built with Expo that provides comprehensive exercise demonstrations, video tutorials, and progress tracking for fitness enthusiasts.
 
 ## 📱 Project Overview
 
-LiftoffExerciseApp is a sophisticated fitness tracking application that offers:
+LiftOffExerciseApp is a sophisticated fitness tracking application that offers:
 - **Exercise Library**: Curated collection of professional exercises with detailed instructions
 - **Video Demonstrations**: High-quality exercise videos with proper form guidance
 - **Step-by-Step Instructions**: Detailed breakdown of exercise movements and safety tips
@@ -65,8 +65,8 @@ The app includes 5 professionally curated exercises:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd LiftoffExerciseApp
+   git clone https://github.com/kitarvin23/LiftOffExerciseApp.git
+   cd LiftOffExerciseApp
    ```
 
 2. **Install dependencies**
@@ -120,7 +120,7 @@ expo start --web
 ## 📁 Project Structure
 
 ```
-LiftoffExerciseApp/
+LiftOffExerciseApp/
 ├── App.js                     # Main app component with navigation setup
 ├── package.json               # Dependencies and scripts
 ├── app.json                   # Expo configuration
