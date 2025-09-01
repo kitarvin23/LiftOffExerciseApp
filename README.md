@@ -178,15 +178,6 @@ LiftOffExerciseApp/
 - **Babel** - JavaScript transpilation
 - **Expo CLI** - Development and build tooling
 
-## 📸 Screenshots
-
-*Screenshots can be added to showcase:*
-- Exercise list screen with premium card design
-- Exercise detail screen with video player
-- Progress tracking dashboard
-- Premium upgrade modal
-- Exercise demonstration viewer
-
 ## 🎨 Design System
 
 The app features a sophisticated design system with:
